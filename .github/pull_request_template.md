@@ -30,11 +30,9 @@
 ## 📋 Pre-submission Checklist
 <!-- Complete all items before requesting review -->
 
-### Code Quality
-- [ ] No console.log statements or unused debug code left behind
-- [ ] Proper error handling implemented
-- [ ] Code is readable and well-commented where necessary
-- [ ] No unused imports or dead code
+### Testing
+- [ ] Tests have been defined above for all appilicable systems
+- [ ] Tests are all passing
 
 ### Documentation
 - [ ] Knowledgebase Updated (if applicable)
@@ -48,6 +46,12 @@
 - [ ] Database migrations tested (if applicable)
 - [ ] Build process works correctly
 - [ ] No breaking changes to existing APIs (unless intended)
+
+### Code Quality
+- [ ] No console.log statements or unused debug code left behind
+- [ ] Proper error handling implemented
+- [ ] Code is readable and well-commented where necessary
+- [ ] No unused imports or dead code
 
 ## 🖼️ Screenshots/Examples
 <!-- Add screenshots, GIFs, or examples if applicable -->
